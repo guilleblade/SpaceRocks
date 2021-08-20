@@ -1,0 +1,63 @@
+﻿  bullet.cpp
+G:\C++ scripts\SpaceRocks\bullet.cpp(23,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(24,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(96,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(97,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(116,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(117,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(128,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\bullet.cpp(129,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LargeRock.cpp
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(29,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(54,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(55,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(79,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(85,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(104,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(110,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(129,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(135,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(153,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(159,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(184,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(185,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(187,18): warning C4305: '+=': truncation from 'double' to 'float'
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(193,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(200,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(206,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\LargeRock.cpp(212,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+G:\C++ scripts\SpaceRocks\main.cpp(58,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(60,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(97,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(178,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(179,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(412,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(412,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(413,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(413,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(416,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(445,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(452,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(458,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(464,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(525,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\main.cpp(525,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  smallRock.cpp
+G:\C++ scripts\SpaceRocks\smallRock.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(29,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(49,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(50,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(55,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(104,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(105,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(125,18): warning C4305: '+=': truncation from 'double' to 'float'
+G:\C++ scripts\SpaceRocks\smallRock.cpp(132,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(139,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(145,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SpaceRocks\smallRock.cpp(151,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SpaceRocks.vcxproj -> G:\C++ scripts\SpaceRocks\x64\Debug\SpaceRocks.exe
